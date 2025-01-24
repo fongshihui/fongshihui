@@ -4,9 +4,9 @@
 I'm an Information Systems undergraduate based in Singapore, with a keen interest in the latest developments in technology, software engineering, AI, and machine learning.
 
 ## Technologies I Work With
-- **Languages**: Python, JavaScript
-- **Frameworks**: React, Django
-- **Tools**: Docker
+- **Languages**: Python, JavaScript, PHP
+- **Frameworks**: React, Vue
+- **Tools**: Docker, MySQL
 
 ## Projects
 Over the summer, my group developed [quizDaddy](https://github.com/HEAPS-ACTUAL), a web application for students to upload their notes and materials to generate 
